@@ -400,5 +400,4 @@ for action in result["recommended_actions"]:
 - **Euler integration** – all time-stepping uses explicit Euler for simplicity and transparency. For higher-fidelity work, the `SimulationEngine` `step_fn` interface supports drop-in RK4 or other integrators.
 - **Engineering validity** – physics formulas follow established references: Morison equation (API RP 2A), JONSWAP spectrum (Hasselmann 1973), linear wave theory (Airy), Palmgren–Miner fatigue rule.
 =======
- 
->>>>>>> main
+

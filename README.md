@@ -4,7 +4,7 @@
 **A production-ready modular research platform integrating Mechanical Engineering models, Oceanographic data systems, and Agentic AI for the autonomous design, optimization, simulation, and operation of marine systems.**
 
 ## Overview
-
+ 
 OceanMech-Agent is a research platform where **AI agents autonomously design, optimize, simulate, and operate marine mechanical systems**. It is built around four marine engineering domains:
 
 | System | Description |
